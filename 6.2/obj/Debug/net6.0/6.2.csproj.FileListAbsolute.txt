@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\6.2.exe
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\6.2.deps.json
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\6.2.runtimeconfig.json
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\6.2.dll
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\ref\6.2.dll
+E:\Practical .NET\Practical-6\Lambda\6.2\bin\Debug\net6.0\6.2.pdb
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.AssemblyInfo.cs
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.dll
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\ref\6.2.dll
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.pdb
+E:\Practical .NET\Practical-6\Lambda\6.2\obj\Debug\net6.0\6.2.genruntimeconfig.cache
